@@ -16,8 +16,6 @@ function solveEquation(a, b, c) {
   return arr; // array
 }
 
-let result = solveEquation(2, 16, 8);
-console.log(result);
 
 function calculateTotalMortgage(percent, contribution, amount, date) {
   let totalAmount;
